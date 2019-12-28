@@ -1,7 +1,0 @@
-spring:
-  cloud:
-    config:
-      uri: http://192.168.0.104:8888
-      name: kim-eureka
-      label: master
-      profile: dev
